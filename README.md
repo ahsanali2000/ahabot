@@ -32,4 +32,30 @@
 - `After the modle is done training, the encoding files and model weights are saved. You don't have to go through the hassle to retrain it every time.
 
 
+## CURRENT FAQs for bot's knowledege space:
+The bot needs to be supplied a list of FAQs to operate on, by default the following FAQs with questions and answers are supplied:
+-What is your name ?
+-Where do you live ?
+-How are you doing ?
+-Can you help me ?
+-I need to create a new account
+-I want to submit a complaint
+-How do I cancel my premium membership
+-What is your pricing plan
+-Do you offer a free trial account ?
+-How do i cancel my free trial ?
+-I forgot my password
+-I want to reset my account
+-I want to delete my account
+-I want to talk to an agent
+-I had been overcharged on the latest bill
+-I need a copy of my credentials
+-I can't download the backup
+-how to change the profile picture ?
+-website is loading very slow
+-How do i implement the amazon web services AWS ?
+-I want to improve website's SEO
+
+## NOTE: 
+The program is dynamic and would work on any set of questions/answers supplied..
 - ✨Magic ✨
