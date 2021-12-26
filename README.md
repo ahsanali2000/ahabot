@@ -28,9 +28,5 @@
 - The model contains `16000+` trainable parameters and uses the power of tensorflow to train on it.
 - `After the modle is done training, the encoding files and model weights are saved. You don't have to go through the hassle to retrain it every time.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
 
-- Type some Markdown on the left
-- See HTML in the right
 - ✨Magic ✨
