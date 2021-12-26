@@ -19,6 +19,9 @@
 - You can either the pre-trained model `chatbot_model.h5` or retrain the model on your custom FAQs.
 
 ## Sample Output:
+![alt text](https://github.com/ahsanali2000/ahabot/blob/master/sample%20images/1.jpeg)
+![alt text](https://github.com/ahsanali2000/ahabot/blob/master/sample%20images/2.jpeg)
+![alt text](https://github.com/ahsanali2000/ahabot/blob/master/sample%20images/3.jpeg)
 
 ## About Code:
 - We are using neural networks, deep transformer neural networks and BERT embeddings in our model.
